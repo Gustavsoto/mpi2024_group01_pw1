@@ -17,35 +17,35 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="This is the first application from Group 1"
+            android:text="@string/first_app"
             android:textColor="@color/white"
             android:textSize="20sp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Rainers Strads"
+            android:text="@string/name1"
             android:textColor="@color/white"
             android:textSize="20sp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Gustavs Oto Cers"
+            android:text="@string/name2"
             android:textColor="@color/white"
             android:textSize="20sp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Rainers Reds Biezais"
+            android:text="@string/name3"
             android:textColor="@color/white"
             android:textSize="20sp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="This app was developed by Rainers Strads"
+            android:text="@string/developed"
             android:textColor="@color/white"
             android:textSize="20sp"
             android:layout_marginTop="20dp"/>

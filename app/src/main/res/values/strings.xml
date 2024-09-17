@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Hello world</string>
+    <string name="first_app">This is the first application from Group 1</string>
+    <string name="name1">Rainers Strads</string>
+    <string name="name2">Gustavs Oto Cers</string>
+    <string name="name3">Rainers Reds Biezais</string>
+    <string name="developed">This app was developed by Rainers Strads</string>
 </resources>
